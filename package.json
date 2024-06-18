@@ -1,0 +1,17 @@
+{
+  "name": "vanilla-handlebars-generate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bootstrap.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "fs-extra": "^11.2.0",
+    "handlebars": "^4.7.8"
+  }
+}

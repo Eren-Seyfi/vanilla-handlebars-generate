@@ -1,0 +1,34 @@
+{
+    "inputDir": "src",
+    "outputDir": "www",
+    "interval": 5000,
+    "mainTemplate": "templates/layouts/main.hbs",
+    "pagesDir": "templates/pages",
+    "templates": {
+      "layouts": [
+        "main.hbs",
+        "example.hbs"
+      ],
+      "partials": [
+        "header.hbs",
+        "footer.hbs",
+        "nav.hbs"
+      ],
+      "pages": [
+        "index.main.hbs",
+        "about.main.hbs",
+        "index.example.hbs",
+        "about.example.hbs"
+      ],
+      "components": []
+    },
+    "public": {
+      "css": [
+        "style.css"
+      ],
+      "js": [
+        "app.js"
+      ]
+    }
+  }
+  
